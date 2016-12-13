@@ -1,0 +1,36 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP C
+D Unpolarized capacitor
+$ENDCMP
+#
+$CMP CONN_01X02
+D Connector, single row, 01x02
+K connector
+$ENDCMP
+#
+$CMP CONN_01X06
+D Connector, single row, 01x06
+K connector
+$ENDCMP
+#
+$CMP Dip_Switch
+D Connector, double row, 02x12
+K connector
+$ENDCMP
+#
+$CMP Jumper_NO
+D Jumper normally open
+K Jumper, Link
+$ENDCMP
+#
+$CMP R
+D Resistor
+$ENDCMP
+#
+$CMP dip_switch_12pos
+D Interrupteur simple
+K switch
+$ENDCMP
+#
+#End Doc Library
